@@ -1,0 +1,1 @@
+The NPCs should know about what's happening in their local environment.  I think there should be some data structure that holds basic information, like local quests, recent NPC deaths, etc.

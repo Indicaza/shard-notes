@@ -1,0 +1,1 @@
+This school of magic focuses on the manipulation of fire, allowing the player to create and control flames, as well as incinerate enemies.  Flame magic is powerful and dangerous, mismanaged spells will hurt your allies.

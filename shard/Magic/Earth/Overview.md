@@ -1,0 +1,1 @@
+This school of magic focuses on the manipulation of the earth and rock, allowing the player to create barriers, summon boulders, and move terrain.  Earth magic is good for all-around protection, and for staggering enemy defenses.

@@ -1,0 +1,5 @@
+-   Tracking
+-   Foraging
+-   Hunting
+-   Trapping
+-   Fishing

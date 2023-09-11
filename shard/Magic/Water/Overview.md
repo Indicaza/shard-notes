@@ -1,0 +1,1 @@
+This school of magic focuses on the manipulation of water, allowing the player to create and control water, as well as freeze enemies.  Water magic is good for crowd control, and gives bonuses to healing.

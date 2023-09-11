@@ -1,0 +1,6 @@
+-   Density: Determines the weight and bulk of the metal, contributing to the overall defense rating of the armor. A high-density rating also makes the armor more resistant to blunt attacks.
+-   Hardness: Determines the metal's resistance to piercing and slashing attacks. However, a high hardness rating can also make the armor more vulnerable to blunt attacks, potentially reducing its overall durability.
+-   Thermal Conductivity: Determines how well the metal conducts heat, affecting the wearer's resistance to environmental temperature changes. High thermal conductivity can also make the wearer more vulnerable to fire attacks.
+-   Electric Conductivity: Determines how well the metal conducts electricity, affecting the wearer's resistance to electrical attacks.
+-   Magical Conductivity: Determines the metal's ability to conduct magical energy, affecting the wearer's ability to cast spells while wearing the armor.
+-   Corrosion Resistance: Determines the metal's resistance to rust and other forms of corrosion, affecting the durability and overall lifespan of the armor.

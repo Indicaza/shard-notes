@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "236d2a99ac1ffc15",
+    "type": "split",
+    "children": [
+      {
+        "id": "18cbff705891ff57",
+        "type": "split",
+        "children": [
+          {
+            "id": "5d1a4cf2e0a539d0",
+            "type": "tabs",
+            "dimension": 81.75182481751825,
+            "children": [
+              {
+                "id": "e54936c4abc2cd69",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Stats/Damage Types.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "dac5054495f828b4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Crafting/Blacksmithing/Weapons/Weapons.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "afd6937100b7fa21",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Assets/Castle/Machicolations.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f4650664749860e8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Places/Hardrun/Overview.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "de0280c20c36d101",
+            "type": "tabs",
+            "dimension": 18.248175182481752,
+            "children": [
+              {
+                "id": "c9d9691404e3903f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/z/projects/shard/shard",
+                      "profile": {
+                        "name": "",
+                        "type": "developerConsole"
+                      },
+                      "serial": {
+                        "columns": 155,
+                        "data": "{}\u001b[1B\u001b[2D",
+                        "rows": 5
+                      }
+                    }
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fb307aa330effd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "afc8da1c24958da1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37352aef5875fe4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2a59165ee6dff64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3262f89d71169ce6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "09999b9f7e29e8f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9eff820cdc426cde",
+    "type": "split",
+    "children": [
+      {
+        "id": "871620d2eecbe68b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a64f7429d715961b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Crafting/Blacksmithing/Weapons/Weapons.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96a7fd8b49851d67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Crafting/Blacksmithing/Weapons/Weapons.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aaad0173809777f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "60feea9b337ef8b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Crafting/Blacksmithing/Weapons/Weapons.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "dac5054495f828b4",
+  "lastOpenFiles": [
+    "Crafting/Carpentry/Materials.md",
+    "Crafting/Carpentry/Overview.md",
+    "Crafting/Blacksmithing/Armor/Armor.md",
+    "Crafting/Blacksmithing/Overview.md",
+    "Crafting/Blacksmithing/Weapons/Weapons.md",
+    "Crafting/Blacksmithing/Materials.md",
+    "Environment/Procedural Fun.md",
+    "NPC/Awareness.md",
+    "Environment",
+    "Stats/10,000 Hours.md",
+    "NPC",
+    "Enemies/Dungeon Master AI.md",
+    "Stats/Material Properties.md",
+    "Stats/Status Effects.md",
+    "Stats/Stats.md",
+    "Places/Hardrun/Overview.md",
+    "Pics/materials/Indicaza_Terrastone_-_A_sturdy_earthy-colored_gem_that_harnesse_39851192-e0e9-4f40-bebf-588cbea8979d.png",
+    "Pics/materials/Indicaza_Solcite_-_A_rare_shimmering_gemstone_that_is_said_to_b_81feaef1-8eff-4b77-bdb2-f11416f434c0.png",
+    "Pics/materials/Indicaza_Solcite_-_A_rare_shimmering_gemstone_that_is_said_to_b_4c0d6bf8-2360-4423-9b13-5c7b4bf19fe5.png",
+    "Pics/materials/Indicaza_Mythril_Metal_Bar_-_A_lightweight_silver-colored_metal_fa2ca5f4-2709-45cc-b19a-cb3c646f87ee.png",
+    "Pics/materials/Indicaza_Dwarven_Damascus_Metal_Bar_-_A_heavy_black_and_silver__f26ca37b-be54-4909-bb6f-45a97f2cba4c.png",
+    "Pics/materials/Indicaza_Aurium_-_A_rare_shimmering_metallic_crystal_that_is_sa_5fc5129b-6fe3-4343-a6c3-733f36580c82.png",
+    "Pics/materials/Indicaza_Aquaglass_-_A_fluid_blue-colored_gem_that_harnesses_an_3d46e18f-4bc6-4617-a44b-7ae9bdd494ef.png",
+    "Pics/materials/Indicaza_Adamant_Metal_Bar_-_A_hard_durable_metal_that_is_said__c675ec9f-2994-4715-8d86-c91217a784d1.png",
+    "Pics/goblinOrthoHead.png",
+    "Pics/Indicaza_DD_goblin_d2ebd092-cb74-4100-a4b1-5fb7de1a1290.png",
+    "Assets/Castle/Machicolations.md",
+    "Enemies/Types.md",
+    "Enemies/Underworld/Goblins.md",
+    "Lore/Pitch.md",
+    "Lore/Orrery.md",
+    "Lore/In the Beginning.md",
+    "Assets/Castle",
+    "Assets",
+    "image.png.md",
+    "Places/Hardrun",
+    "Places",
+    "Lore/Solar System.md",
+    "Pics/materials",
+    "Stats/Damage Types.md",
+    "Stats/Perks/Versatile Expertise/Persuasion.md",
+    "Stats/Perks/Versatile Expertise/Survival.md",
+    "Stats/Perks/Versatile Expertise/Stealth.md"
+  ]
+}

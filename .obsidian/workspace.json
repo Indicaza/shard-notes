@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "e8de9f821ca52e6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a1ede8c529b516d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5dec7e949e1cfbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shard/Stats/Skill Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cfff07f27326143",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a79807b5788d396",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53364b03ba50c8e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8ff689d0b557889",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e589475731676f6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eaf9c9f4624ae7f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b2fcda66c3cd5cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6d69f9777b735fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "shard/Stats/Skill Tree.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bad7e4eff7b85010",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "shard/Stats/Skill Tree.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f055cda67e80820",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "810d88ac2256f5fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "shard/Stats/Skill Tree.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d5dec7e949e1cfbf",
+  "lastOpenFiles": [
+    "README.md",
+    "shard/Crafting/Alchemy.md",
+    "shard/Stats/Skill Tree.md",
+    "shard/Crafting/Carpentry.md",
+    "shard/Crafting/Materials.md",
+    "shard/Crafting/Blacksmithing.md",
+    "shard/Crafting/Cooking.md",
+    "shard/Magic/Spellcraft.md",
+    "shard/Magic/Water/Water Spells.md",
+    "shard/Magic/Soul/Soul Spells.md",
+    "shard/Magic/Fire/Fire Spells.md",
+    "shard/Magic/Earth/Earth Spells.md",
+    "shard/Magic/Air/Air Spells.md",
+    "shard/Magic/Water/Overview.md",
+    "shard/Magic/Soul/Overview.md",
+    "shard/Magic/Fire/Overview.md",
+    "shard/Magic/Earth/Overview.md",
+    "shard/Magic/Air/Overview.md",
+    "shard/Stats/Perks/Versatile Expertise/Survival.md",
+    "shard/Stats/Perks/Versatile Expertise/Stealth.md",
+    "shard/Stats/Perks/Versatile Expertise/Persuasion.md",
+    "shard/Lore/Astrology.md",
+    "shard/Lore/Solar System.md",
+    "shard/Races/Elari.md",
+    "shard/Environment/map.md",
+    "pollentia.png",
+    "shard/Environment/Procedural Fun.md"
+  ]
+}

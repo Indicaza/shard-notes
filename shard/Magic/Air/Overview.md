@@ -1,0 +1,1 @@
+This school of magic focuses on the manipulation of the wind and air, allowing the player to control the weather, levitate objects, and move at high speeds.  Air magic is all about maneuverability, and transversal.

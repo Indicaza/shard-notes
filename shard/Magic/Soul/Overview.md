@@ -1,0 +1,1 @@
+This school of magic would focus on manipulating the souls, allowing the player to heal, resurrect, and communicate with disembodied spirits.  Soul magic provides extra utility to every other element.

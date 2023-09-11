@@ -1,0 +1,3 @@
+-   Sneaking
+-   Pickpocketing
+-   Lockpicking

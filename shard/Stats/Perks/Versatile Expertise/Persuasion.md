@@ -1,0 +1,4 @@
+-   Intimidation
+-   Negotiation
+-   Deception
+-   Intimidation
