@@ -1,1 +1,0 @@
-The landscape will be randomly rolled using some variation of the wave function collapse algorithm, after the landscape is rolled, we will place the settlements based on where natural resources are, this will also determine what that town's basic trade is.  The landscape will be made from voxels, and there will be vast tunnel systems where "Underdark" denizens live.
