@@ -9,9 +9,11 @@ The presence of Archanite weaves a thread of strategic necessity throughout the 
 Archanite, a luminescent crystal with profound magical properties, is the cornerstone of ancient Arcadian technology. Its energy pulses through the veins of the land's defenses and is the driving force behind the wonders that protect and sustain settlements amidst a world of colossal beasts.
 
 ### **Bastions of Civilization**
+
 In the shadow of towering monsters and dragons, the ancient Arcadians conceived formidable defenses to safeguard their homes. Multi-story turrets fire concentrated beams of Archanite energy, capable of piercing the hide of the mightiest creatures. Energy shields dome over settlements, creating biospheres where life thrives, untouched by the chaos outside. Self-replicating golems, infused with Archanite's essence, stand as tireless sentinels and laborers, maintaining the integrity of civilization.
 
 ### **Guilds of Valor and Merriment**
+
 The caravan guilds of Arcadia are not mere traders; they are lifelines. Braving the perilous journeys between settlements, they are celebrated as heroes. When a caravan arrives, it's a cause for jubilation, with festivals and feasts erupting in their wake. Accompanied by bards, these entertainers are more than mere musicians; they are the chroniclers of glory, their songs amplifying the renown of the guilds.
 
 ## **Teleportation: A Costly Venture**
@@ -23,6 +25,7 @@ Teleportation, while a marvel of the arcane, demands a heavy price. Only the mos
 This coveted resource is harvested from the carcasses of fallen monsters, a reward for those who brave the dangers of quests, and mined from the perilous depths of the underdark. The allure of Archanite draws adventurers into the heart of darkness, challenging them to emerge triumphant and enriched.
 
 ### **The Portal Network Initiative**
+
 With dedication and toil, the players themselves can establish a network of portals, binding the far-flung corners of Arcadia together. This monumental effort not only requires the accumulation of Archanite but also the collaboration of guilds, mages, and warriors alike.
 
 ---

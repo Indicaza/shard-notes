@@ -1,1 +1,0 @@
-The main big bad will be generated based on the world around it and will understand the world around it.  It will be orders of magnitude more powerful than the characters.  The AI will actively assert its will and goals over the map and story.  It will actively hunt powerful players and guilds.

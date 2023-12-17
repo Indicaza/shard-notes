@@ -1,26 +1,46 @@
-## **Elari (Mountain Guardians of Illothames)**
+![1702809237835](image/Elari/1702809237835.png)
 
-### **Origins:**
-Hailing from the constellation of Lyria, the Elari, once known as the Starborn, were ethereal beings of pure energy, dancing amidst the stars. Witnessing the suffering and chaos in the universe, a faction among them chose to descend into the corporeal realm, hoping to combat the rising tide of evil and bring balance. This selfless act, however, came at a cost. These Elari lost their ethereal form, becoming bound to the physical realm, and were deemed "corrupted" by their celestial kin. They can never return to the astral plane, forever separated from their original state.
+---
 
-### **Settlement in Arcadia:**
-Drawn to the majestic Celestia Peaks of Arcadia, they established the city of Illothames atop the Grey Rise mountains. The Thames river, a life-giving force, flows through their city, cascading down the mountainside, symbolizing the Elari's own descent from the stars.
+# Elari
 
-### **Culture & Lifestyle:**
-- **Organic Architecture:** The Elari have a unique connection to the natural world. They grow their homes, tools, art, and temples from the living environment around them. Powerful monks can shape trees, metals, earth, and crystals with mere thought, giving their creations an organic, flowing aesthetic.
+### Overview
 
-- **Longevity:** The Elari live longer than any other race in Arcadia. Their perception of time is different, leading them to approach life with patience and deliberation. They are never in a rush, believing that every action should be purposeful and meaningful.
+- **Brief Description:** The Elari, once ethereal beings from the constellation of Lyria, are now guardians bound to the physical realm, residing in the Celestia Peaks of Arcadia.
+- **Unique Feature:** Known for their organic architecture and deep spiritual connection to the natural world.
 
-- **Reproduction:** Due to their extended lifespans, the Elari have a prolonged gestation period and raising an offspring takes around a century. Young Elari undergo a tumultuous puberty that lasts for decades, filled with heightened emotions and impulsiveness.
+### Appearance
 
-- **Youth and Elders:** The elder Elari, valuing order and tranquility, often keep their young cloistered, partly out of a sense of protection and partly due to the embarrassment caused by the unpredictable nature of their youth.
+- **Physical Characteristics:** Elari possess an ethereal, graceful appearance, often with hints of their celestial origin like shimmering skin or star-like eyes.
+- **Style and Attire:** Their clothing is harmonious with nature, incorporating elements of their environment and crafted with an organic, flowing aesthetic.
 
-- **Spiritual Practices:** Despite their separation from the astral plane, the Elari are deeply spiritual. They often meditate, gazing at the stars with a mix of longing and sorrow, remembering their ethereal origins and mourning their lost connection.
+### Culture
 
-### **Pollentia and the Elari:**
-In Pollentia, a small group of Elari act as ambassadors, ensuring that their culture and interests are represented. While they coexist peacefully with other races, they maintain their distinct customs and often reside in elevated areas, reminiscent of their mountain homes.
+- **Society:** The Elari live in a deeply spiritual and patient society, valuing tranquility and purposeful action. Their community is led by wise elders who emphasize the importance of balance and memory.
+- **Values and Beliefs:** Strongly connected to nature and their astral origins, they practice meditation and spiritual rituals that reflect their longing for their celestial past.
+- **Traditions:** Their culture includes unique architectural practices, creating living structures from nature, and spiritual ceremonies that honor their star-born heritage.
 
-### **History with Arcadia:**
-The Elari's history in Arcadia is marked by their dedication to combating evil and preserving the balance of the world. While they have mostly remained neutral in larger conflicts, they have intervened when the balance of nature and the universe was at stake. Their primary concern is the preservation of their culture, the memories of their celestial origins, and the protection of the sacred resources they guard.
+### Habitat
 
-The Elari's decision to become corporeal beings and fight against the forces of evil is both their strength and their tragedy. They stand as guardians, forever committed to their chosen path, even as they yearn for the astral light they once knew. In the silent moments atop the Grey Rise mountains, one can hear the soft, melancholic songs of the Elari, a lament for the stars.
+- **Preferred Environment:** Settled in the mountainous region of Illothames, amidst the Celestia Peaks, where they feel closest to their celestial origins.
+- **Settlements:** Illothames is a city grown from the living environment, with structures harmoniously integrated into the mountainside, overlooking the Thames river.
+
+### Abilities
+
+- **Innate Skills:** Possessing an innate ability to manipulate natural elements for construction and art, and a profound understanding of cosmic and spiritual energies.
+- **Combat Prowess:** While generally peaceful, they are capable of defending their realm with a combination of elemental and spiritual magic when necessary.
+
+### Relations with Other Races
+
+- **Alliances and Conflicts:** Mostly neutral, but intervene in world affairs to maintain natural and cosmic balance. A small group in Pollentia acts as ambassadors.
+- **Role in Society:** Regarded as wise and enigmatic guardians of ancient knowledge, often sought for their spiritual insight and mastery over natural elements.
+
+### Gameplay Interaction
+
+- **Playable Race:** No. Primarily NPCs offering quests, guidance, and wisdom related to spiritual and natural matters.
+- **NPC Interaction:** Players can engage in quests that involve the preservation of nature, spiritual enlightenment, or the defense of Illothames.
+
+### Lore and History
+
+- **Backstory:** Their transformation from celestial beings to corporeal guardians marks their dedication to combatting evil and preserving balance in Arcadia.
+- **Role in Game's Lore:** They stand as a testament to sacrifice and commitment, guardians of ancient wisdom and protectors of the natural order.
