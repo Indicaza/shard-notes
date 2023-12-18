@@ -1,7 +1,3 @@
-:
-
----
-
 # Borabar Mages College - Design Document
 
 ## Overview
@@ -48,7 +44,3 @@ The Mages College in Borabar is a renowned institution of arcane study, known fo
 
 - **Protecting Arcane Knowledge:** The College faces threats from those seeking to steal or misuse its secrets, requiring constant vigilance.
 - **Internal Mysteries:** The College is rife with mysteries and intrigues, with hidden agendas and power struggles among its members.
-
----
-
-The Mages College in Borabar stands as a beacon of magical knowledge and exploration in Arcadia. Its unique approach to the arcane arts, combined with the mystique of its leader and the whimsical nature of its culture, makes it a fascinating and integral part of the game world.

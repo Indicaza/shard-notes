@@ -1,4 +1,4 @@
-**The Grim Hold: Architectural and Spatial Overview**
+# **The Grim Hold: Architectural and Spatial Overview**
 
 ### Location and External Features:
 
